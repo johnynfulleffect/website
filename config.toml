@@ -1,0 +1,4 @@
+baseURL = 'https://batemans.tech/'
+languageCode = 'en-us'
+title = 'Batemans Tech'
+theme = "ananke"

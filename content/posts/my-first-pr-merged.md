@@ -4,7 +4,9 @@ date: 2021-11-23T11:26:23-05:00
 draft: false
 ---
 
-### My First PR Merged
+Primarily a close source developer, it was nice to contribute to open source!
+
+<!--more-->
 
 Working as a software engineer and a systems architect, I submit PR's all day, every day, so the ***act*** of opening a PR and getting it merged is no big deal to me.  However, I have only worked on closed source projects up until today.  Feel free to check it out:
 
@@ -19,6 +21,6 @@ I have been customizing (read: breaking and fixing) my HomeLab over the second h
 - `X-Content-Type-Options: true`
 - `Strict-Transport-Security` with the `preload` tag
 
-The rest of the comfiguration was properly setting up routers and services in Traefik for a custom domain (details in PR)
+The rest of the configuration was properly setting up routers and services in Traefik for a custom domain (details in PR)
 
 Even tho this PR modifies a configuration file used in a demo, nothing going to mainstream, I still feel accomplished and happy that I figured out the issue and hopefully help someone else.
